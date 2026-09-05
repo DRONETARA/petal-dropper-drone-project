@@ -1,0 +1,68 @@
+{
+  "1": {
+    "Door LEFT \u2022 manual reset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Door RIGHT \u2022 manual reset": [
+      0.0,
+      -0.0,
+      0.0
+    ],
+    "Front keeper \u2022 servo 1": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rear keeper \u2022 servo 2": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "50": {
+    "Door LEFT \u2022 manual reset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Door RIGHT \u2022 manual reset": [
+      0.0,
+      -0.0,
+      0.0
+    ],
+    "Front keeper \u2022 servo 1": [
+      0.0,
+      0.0,
+      90.0
+    ],
+    "Rear keeper \u2022 servo 2": [
+      0.0,
+      0.0,
+      90.0
+    ]
+  },
+  "90": {
+    "Door LEFT \u2022 manual reset": [
+      0.0,
+      95.0,
+      0.0
+    ],
+    "Door RIGHT \u2022 manual reset": [
+      0.0,
+      -95.0,
+      0.0
+    ],
+    "Front keeper \u2022 servo 1": [
+      0.0,
+      0.0,
+      90.0
+    ],
+    "Rear keeper \u2022 servo 2": [
+      0.0,
+      0.0,
+      90.0
+    ]
+  }
+}

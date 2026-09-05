@@ -1,0 +1,25 @@
+Item,Quantity,Provisional size or interface,Notes
+Hopper module joining bolts,32,M4 x 16 with washers and locknuts,16 vertical seam and 16 horizontal seam bolts
+Throat rail bolts,16,M4 x 14 with washers and locknuts,Check stacked wall and rail thickness
+Hinge clevis mounting bolts,16,M4 x 20 with washers and locknuts,Verify engagement and no projecting petal snags
+Keeper carrier mounting bolts,16,M4 x 20 with washers and locknuts,Four bolt holes on each half of each carrier
+Suspension bracket bolts,16,M4 x 18 with wide washers and locknuts,Load path into thin hopper wall requires testing
+Door splice bolts,8,M4 x 22 with washers and locknuts,Two bolts per splice plate
+Rail clamp bolts,16,M4 x 45 starting length; washers and locknuts,Includes P2 3 mm lower plate; verify actual stack
+Door-limit eye bolts,8,M4 with washers and locknuts,Four carrier anchors and four door anchors; select stem length from actual stack
+Door-limit cords,4,2 mm nominal adjustable cord,Provisional 100 N WLL target each; eye-centre lengths in limit_cords.json; verify knots and shock load
+Hinge pins,4,5 mm stainless steel x 48 mm,Add washers and positive end retention; not printed pins
+Hinge thrust washers,8,5 mm ID,Allow for actual washer thickness when fitting
+Keeper spindles,2,6 mm steel x 44 mm,Two M3 cross connections; machining and strength need review
+Spindle cross bolts,4,M3 x 26 with locking nuts,Match shaft and adapter hole alignment
+Keeper thrust washers,2,6.6 mm ID x 24 mm OD x 1 mm,Payload axial force bears on carrier shelf
+Transport arming pins,2,3 mm x 28 mm with retention loop,Remove both before commanded release
+Servos,2,Hitec D954SW at 7.4 V,Selected actuator; measure loaded release torque/current
+Servo mounting screws,8,M3 bolts with washers and locknuts; fit length,48 x 10 mm hole centres; horn-height spacers as required
+Purchased servo horns,2,Genuine compatible Hitec 25T double-arm metal horn,Choose opposed holes at radius 8–20 mm for slotted adapter; check supplied horn
+Horn adapter screws,4,M2.5 through-bolts with washers and locking nuts,One screw on each side of output; select length from actual horn stack
+Suspension studs,4,M6 x 136 mm,Nominal P2 geometry; verify nut/washer engagement before cutting
+Suspension nuts,12,M6 locking nuts plus wide washers,Verify clearance and secure engagement
+Mount rails,2,Aluminium square tube 20 x 20 x 2 mm x 350 mm,M6 holes at +/-130 mm; four clamps match P2 lower plate
+Retention cover,1,Light fabric or suitable net about 320 x 320 mm,Reinforce four stud cutouts and secure all edges; validate propwash
+Cover straps,4,Nonprinted straps,Keep away from propellers

@@ -1,0 +1,784 @@
+[
+  {
+    "part": "Hopper_lower_-1_-1",
+    "file": "Hopper_lower_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 162.89,
+    "solid_PETG_mass_g": 206.9,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 3426,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_lower_-1_+1",
+    "file": "Hopper_lower_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 162.89,
+    "solid_PETG_mass_g": 206.9,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 3426,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_lower_+1_-1",
+    "file": "Hopper_lower_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 162.89,
+    "solid_PETG_mass_g": 206.9,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 3426,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_lower_+1_+1",
+    "file": "Hopper_lower_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 162.89,
+    "solid_PETG_mass_g": 206.9,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 3426,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_upper_-1_-1",
+    "file": "Hopper_upper_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 163.18,
+    "solid_PETG_mass_g": 207.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 2332,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_upper_-1_+1",
+    "file": "Hopper_upper_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 163.181,
+    "solid_PETG_mass_g": 207.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 2332,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_upper_+1_-1",
+    "file": "Hopper_upper_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 163.18,
+    "solid_PETG_mass_g": 207.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 2332,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hopper_upper_+1_+1",
+    "file": "Hopper_upper_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      181.8,
+      181.8,
+      119.8
+    ],
+    "volume_cm3": 163.18,
+    "solid_PETG_mass_g": 207.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 2332,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm walls; 4 mm outside bolt flanges; 0.4 mm module gaps. M4 through-bolts, washers, locknuts. Seal joints externally with tape. Print with flange supports. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_X_-1_-1",
+    "file": "Throat_rail_X_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      159.6,
+      24.0,
+      19.4
+    ],
+    "volume_cm3": 21.87,
+    "solid_PETG_mass_g": 27.8,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 302,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_X_-1_+1",
+    "file": "Throat_rail_X_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      159.6,
+      24.0,
+      19.4
+    ],
+    "volume_cm3": 21.87,
+    "solid_PETG_mass_g": 27.8,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 302,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_X_+1_-1",
+    "file": "Throat_rail_X_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      159.6,
+      24.0,
+      19.4
+    ],
+    "volume_cm3": 21.87,
+    "solid_PETG_mass_g": 27.8,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 302,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_X_+1_+1",
+    "file": "Throat_rail_X_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      159.6,
+      24.0,
+      19.4
+    ],
+    "volume_cm3": 21.87,
+    "solid_PETG_mass_g": 27.8,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 302,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_Y_-1_-1",
+    "file": "Throat_rail_Y_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      24.0,
+      159.6,
+      19.4
+    ],
+    "volume_cm3": 20.952,
+    "solid_PETG_mass_g": 26.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 298,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_Y_-1_+1",
+    "file": "Throat_rail_Y_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      24.0,
+      159.6,
+      19.4
+    ],
+    "volume_cm3": 20.952,
+    "solid_PETG_mass_g": 26.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 304,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_Y_+1_-1",
+    "file": "Throat_rail_Y_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      24.0,
+      159.6,
+      19.4
+    ],
+    "volume_cm3": 20.952,
+    "solid_PETG_mass_g": 26.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 298,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Throat_rail_Y_+1_+1",
+    "file": "Throat_rail_Y_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      24.0,
+      159.6,
+      19.4
+    ],
+    "volume_cm3": 20.952,
+    "solid_PETG_mass_g": 26.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 304,
+    "print_envelope_pass": true,
+    "notes": "Inward 12 mm support lip; 2 mm vertical clearance over shut doors. M4 attachment. Clear aperture 292 x 292 mm. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_tile_-1_-1",
+    "file": "Door_tile_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      176.5,
+      159.3,
+      16.0
+    ],
+    "volume_cm3": 122.852,
+    "solid_PETG_mass_g": 156.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1208,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm skin; 9.6 mm ribs; 5.4 mm pin bore. Print flat with ribs upward. M4 splice plates underneath. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hinge_clevis_-1_-1",
+    "file": "Hinge_clevis_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      48.0,
+      64.0,
+      30.0
+    ],
+    "volume_cm3": 49.794,
+    "solid_PETG_mass_g": 63.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1248,
+    "print_envelope_pass": true,
+    "notes": "M4 bolts to hopper wall; 5 mm stainless pin, washers and split pins. 2 mm axial running clearance per side. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_tile_-1_+1",
+    "file": "Door_tile_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      176.5,
+      159.3,
+      16.0
+    ],
+    "volume_cm3": 122.852,
+    "solid_PETG_mass_g": 156.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1182,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm skin; 9.6 mm ribs; 5.4 mm pin bore. Print flat with ribs upward. M4 splice plates underneath. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hinge_clevis_-1_+1",
+    "file": "Hinge_clevis_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      48.0,
+      64.0,
+      30.0
+    ],
+    "volume_cm3": 49.794,
+    "solid_PETG_mass_g": 63.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1248,
+    "print_envelope_pass": true,
+    "notes": "M4 bolts to hopper wall; 5 mm stainless pin, washers and split pins. 2 mm axial running clearance per side. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_splice_-1_35",
+    "file": "Door_splice_m1_35.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      20.0,
+      48.0,
+      6.0
+    ],
+    "volume_cm3": 5.579,
+    "solid_PETG_mass_g": 7.1,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 276,
+    "print_envelope_pass": true,
+    "notes": "M4 x 22 through-bolts; underside of tile joint. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_splice_-1_125",
+    "file": "Door_splice_m1_125.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      20.0,
+      48.0,
+      6.0
+    ],
+    "volume_cm3": 5.579,
+    "solid_PETG_mass_g": 7.1,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 276,
+    "print_envelope_pass": true,
+    "notes": "M4 x 22 through-bolts; underside of tile joint. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_tile_+1_-1",
+    "file": "Door_tile_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      176.5,
+      159.3,
+      16.0
+    ],
+    "volume_cm3": 122.853,
+    "solid_PETG_mass_g": 156.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1208,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm skin; 9.6 mm ribs; 5.4 mm pin bore. Print flat with ribs upward. M4 splice plates underneath. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hinge_clevis_+1_-1",
+    "file": "Hinge_clevis_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      48.0,
+      64.0,
+      30.0
+    ],
+    "volume_cm3": 49.794,
+    "solid_PETG_mass_g": 63.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1248,
+    "print_envelope_pass": true,
+    "notes": "M4 bolts to hopper wall; 5 mm stainless pin, washers and split pins. 2 mm axial running clearance per side. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_tile_+1_+1",
+    "file": "Door_tile_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      176.5,
+      159.3,
+      16.0
+    ],
+    "volume_cm3": 122.853,
+    "solid_PETG_mass_g": 156.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1182,
+    "print_envelope_pass": true,
+    "notes": "2.4 mm skin; 9.6 mm ribs; 5.4 mm pin bore. Print flat with ribs upward. M4 splice plates underneath. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Hinge_clevis_+1_+1",
+    "file": "Hinge_clevis_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      48.0,
+      64.0,
+      30.0
+    ],
+    "volume_cm3": 49.794,
+    "solid_PETG_mass_g": 63.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1248,
+    "print_envelope_pass": true,
+    "notes": "M4 bolts to hopper wall; 5 mm stainless pin, washers and split pins. 2 mm axial running clearance per side. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_splice_+1_35",
+    "file": "Door_splice_p1_35.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      20.0,
+      48.0,
+      6.0
+    ],
+    "volume_cm3": 5.579,
+    "solid_PETG_mass_g": 7.1,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 276,
+    "print_envelope_pass": true,
+    "notes": "M4 x 22 through-bolts; underside of tile joint. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Door_splice_+1_125",
+    "file": "Door_splice_p1_125.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      20.0,
+      48.0,
+      6.0
+    ],
+    "volume_cm3": 5.579,
+    "solid_PETG_mass_g": 7.1,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 276,
+    "print_envelope_pass": true,
+    "notes": "M4 x 22 through-bolts; underside of tile joint. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Keeper_dog_-1",
+    "file": "Keeper_dog_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      56.0,
+      71.0,
+      25.0
+    ],
+    "volume_cm3": 34.856,
+    "solid_PETG_mass_g": 44.3,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 746,
+    "print_envelope_pass": true,
+    "notes": "Positive overlap under BOTH leaves; 90 degree release. 6 mm spindle; M3 cross-bolt. Removable 3 mm arming pin. Servo must return closed before manual reset. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Servo_keeper_carrier_-1",
+    "file": "Servo_keeper_carrier_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      110.2,
+      170.0,
+      65.6
+    ],
+    "volume_cm3": 174.167,
+    "solid_PETG_mass_g": 221.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 3530,
+    "print_envelope_pass": true,
+    "notes": "P2 Hitec D954SW: mounting centres 48 x 10 mm, output-axis offsets -34/+14 mm. Ear support Z290.8; fit grommets/spacers to actual horn height. M3 bolts with washers. Shelf carries spindle thrust. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Keeper_dog_+1",
+    "file": "Keeper_dog_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      56.0,
+      71.0,
+      25.0
+    ],
+    "volume_cm3": 34.856,
+    "solid_PETG_mass_g": 44.3,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 746,
+    "print_envelope_pass": true,
+    "notes": "Positive overlap under BOTH leaves; 90 degree release. 6 mm spindle; M3 cross-bolt. Removable 3 mm arming pin. Servo must return closed before manual reset. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Servo_keeper_carrier_+1",
+    "file": "Servo_keeper_carrier_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      110.2,
+      170.0,
+      65.6
+    ],
+    "volume_cm3": 174.167,
+    "solid_PETG_mass_g": 221.2,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 3522,
+    "print_envelope_pass": true,
+    "notes": "P2 Hitec D954SW: mounting centres 48 x 10 mm, output-axis offsets -34/+14 mm. Ear support Z290.8; fit grommets/spacers to actual horn height. M3 bolts with washers. Shelf carries spindle thrust. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Suspension_bracket_-1_-1",
+    "file": "Suspension_bracket_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      56.4,
+      52.0,
+      52.0
+    ],
+    "volume_cm3": 44.67,
+    "solid_PETG_mass_g": 56.7,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 766,
+    "print_envelope_pass": true,
+    "notes": "M6 removable suspension stud; four M4 wall bolts and large washers. Structural capacity untested. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Suspension_bracket_-1_+1",
+    "file": "Suspension_bracket_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      56.4,
+      52.0,
+      52.0
+    ],
+    "volume_cm3": 44.67,
+    "solid_PETG_mass_g": 56.7,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 766,
+    "print_envelope_pass": true,
+    "notes": "M6 removable suspension stud; four M4 wall bolts and large washers. Structural capacity untested. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Suspension_bracket_+1_-1",
+    "file": "Suspension_bracket_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      56.4,
+      52.0,
+      52.0
+    ],
+    "volume_cm3": 44.67,
+    "solid_PETG_mass_g": 56.7,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 766,
+    "print_envelope_pass": true,
+    "notes": "M6 removable suspension stud; four M4 wall bolts and large washers. Structural capacity untested. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Suspension_bracket_+1_+1",
+    "file": "Suspension_bracket_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      56.4,
+      52.0,
+      52.0
+    ],
+    "volume_cm3": 44.67,
+    "solid_PETG_mass_g": 56.7,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 766,
+    "print_envelope_pass": true,
+    "notes": "M6 removable suspension stud; four M4 wall bolts and large washers. Structural capacity untested. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_upper_-1_-1",
+    "file": "Rail_clamp_upper_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      5.0
+    ],
+    "volume_cm3": 8.698,
+    "solid_PETG_mass_g": 11.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 540,
+    "print_envelope_pass": true,
+    "notes": "P2 matching holes in lower frame plate: M4 on 38 x 20 mm centres; clamp top Z715. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_lower_-1_-1",
+    "file": "Rail_clamp_lower_m1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      28.0
+    ],
+    "volume_cm3": 31.992,
+    "solid_PETG_mass_g": 40.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 622,
+    "print_envelope_pass": true,
+    "notes": "20.8 mm square tube clearance. Use M4 through-bolts; no printed threads. Fit coupon first. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_upper_-1_+1",
+    "file": "Rail_clamp_upper_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      5.0
+    ],
+    "volume_cm3": 8.698,
+    "solid_PETG_mass_g": 11.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 540,
+    "print_envelope_pass": true,
+    "notes": "P2 matching holes in lower frame plate: M4 on 38 x 20 mm centres; clamp top Z715. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_lower_-1_+1",
+    "file": "Rail_clamp_lower_m1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      28.0
+    ],
+    "volume_cm3": 31.992,
+    "solid_PETG_mass_g": 40.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 622,
+    "print_envelope_pass": true,
+    "notes": "20.8 mm square tube clearance. Use M4 through-bolts; no printed threads. Fit coupon first. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_upper_+1_-1",
+    "file": "Rail_clamp_upper_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      5.0
+    ],
+    "volume_cm3": 8.698,
+    "solid_PETG_mass_g": 11.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 540,
+    "print_envelope_pass": true,
+    "notes": "P2 matching holes in lower frame plate: M4 on 38 x 20 mm centres; clamp top Z715. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_lower_+1_-1",
+    "file": "Rail_clamp_lower_p1_m1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      28.0
+    ],
+    "volume_cm3": 31.992,
+    "solid_PETG_mass_g": 40.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 622,
+    "print_envelope_pass": true,
+    "notes": "20.8 mm square tube clearance. Use M4 through-bolts; no printed threads. Fit coupon first. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_upper_+1_+1",
+    "file": "Rail_clamp_upper_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      5.0
+    ],
+    "volume_cm3": 8.698,
+    "solid_PETG_mass_g": 11.0,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 540,
+    "print_envelope_pass": true,
+    "notes": "P2 matching holes in lower frame plate: M4 on 38 x 20 mm centres; clamp top Z715. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "Rail_clamp_lower_+1_+1",
+    "file": "Rail_clamp_lower_p1_p1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      50.0,
+      36.0,
+      28.0
+    ],
+    "volume_cm3": 31.992,
+    "solid_PETG_mass_g": 40.6,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 622,
+    "print_envelope_pass": true,
+    "notes": "20.8 mm square tube clearance. Use M4 through-bolts; no printed threads. Fit coupon first. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "H25T_slotted_horn_adapter_-1",
+    "file": "H25T_slotted_horn_adapter_-1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      46.0,
+      16.0,
+      12.5
+    ],
+    "volume_cm3": 3.012,
+    "solid_PETG_mass_g": 3.8,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1312,
+    "print_envelope_pass": true,
+    "notes": "P2: purchased Hitec 25T double-arm horn; two opposed 2.8 mm slots spanning radii 8\u201320 mm. M2.5 through-bolts and washers; check horn hole availability and clearance at bench. No printed servo spline. 6 mm steel spindle/M3 cross-bolt. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  },
+  {
+    "part": "H25T_slotted_horn_adapter_+1",
+    "file": "H25T_slotted_horn_adapter_+1.stl",
+    "quantity": 1,
+    "bbox_mm": [
+      46.0,
+      16.0,
+      12.5
+    ],
+    "volume_cm3": 3.012,
+    "solid_PETG_mass_g": 3.8,
+    "nonmanifold_edges": 0,
+    "connected_components": 1,
+    "triangles": 1312,
+    "print_envelope_pass": true,
+    "notes": "P2: purchased Hitec 25T double-arm horn; two opposed 2.8 mm slots spanning radii 8\u201320 mm. M2.5 through-bolts and washers; check horn hole availability and clearance at bench. No printed servo spline. 6 mm steel spindle/M3 cross-bolt. Mesh merged at 0.001 mm tolerance; outward STL normals verified."
+  }
+]

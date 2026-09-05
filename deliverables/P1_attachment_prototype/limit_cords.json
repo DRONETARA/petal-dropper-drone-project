@@ -1,0 +1,7 @@
+{
+  "quantity": 4,
+  "nominal_eye_to_eye_length_mm": 113.946,
+  "cord_nominal_diameter_mm": 2,
+  "intended_open_limit_deg": 95,
+  "notes": "Use adjustable rated cords; actual length depends on eye hardware and knots. 100 N working-load target per cord is provisional, not certified. Verify swing, abrasion and impulse load on a bench."
+}

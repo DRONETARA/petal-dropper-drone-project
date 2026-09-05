@@ -1,0 +1,345 @@
+{
+  "size_mm": [
+    400,
+    400,
+    3
+  ],
+  "holes": [
+    {
+      "x": -101.11627,
+      "y": -71.41778,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -71.41778,
+      "y": -101.11627,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -112.42998,
+      "y": -82.73149,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -82.73149,
+      "y": -112.42998,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -157.68481,
+      "y": -127.98633,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -127.98633,
+      "y": -157.68481,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -168.99852,
+      "y": -139.30004,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -139.30004,
+      "y": -168.99852,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -71.41778,
+      "y": 101.11627,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -101.11627,
+      "y": 71.41778,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -82.73149,
+      "y": 112.42998,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -112.42998,
+      "y": 82.73149,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -127.98633,
+      "y": 157.68481,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -157.68481,
+      "y": 127.98633,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -139.30004,
+      "y": 168.99852,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -168.99852,
+      "y": 139.30004,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 71.41778,
+      "y": -101.11627,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 101.11627,
+      "y": -71.41778,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 82.73149,
+      "y": -112.42998,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 112.42998,
+      "y": -82.73149,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 127.98633,
+      "y": -157.68481,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 157.68481,
+      "y": -127.98633,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 139.30004,
+      "y": -168.99852,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 168.99852,
+      "y": -139.30004,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 101.11627,
+      "y": 71.41778,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 71.41778,
+      "y": 101.11627,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 112.42998,
+      "y": 82.73149,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 82.73149,
+      "y": 112.42998,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 157.68481,
+      "y": 127.98633,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 127.98633,
+      "y": 157.68481,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 168.99852,
+      "y": 139.30004,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": 139.30004,
+      "y": 168.99852,
+      "diameter": 5.4,
+      "purpose": "M5 arm clamp"
+    },
+    {
+      "x": -139,
+      "y": -80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -139,
+      "y": -60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -101,
+      "y": -80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -101,
+      "y": -60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -139,
+      "y": 60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -139,
+      "y": 80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -101,
+      "y": 60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -101,
+      "y": 80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 101,
+      "y": -80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 101,
+      "y": -60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 139,
+      "y": -80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 139,
+      "y": -60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 101,
+      "y": 60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 101,
+      "y": 80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 139,
+      "y": 60,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": 139,
+      "y": 80,
+      "diameter": 4.4,
+      "purpose": "M4 hopper rail"
+    },
+    {
+      "x": -187,
+      "y": -130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": -163,
+      "y": -130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": -187,
+      "y": 130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": -163,
+      "y": 130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": 163,
+      "y": -130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": 187,
+      "y": -130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": 163,
+      "y": 130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    },
+    {
+      "x": 187,
+      "y": 130,
+      "diameter": 5.4,
+      "purpose": "M5 landing saddle"
+    }
+  ]
+}

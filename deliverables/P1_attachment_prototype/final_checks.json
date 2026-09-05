@@ -1,0 +1,383 @@
+{
+  "motion_step_degrees": 1,
+  "keeper_states": 91,
+  "door_states": 96,
+  "intersections": [],
+  "minimum_printed_door_Z_mm": 171.312,
+  "ground_plane_Z_mm": -5,
+  "door_to_ground_gap_mm": 176.312,
+  "lowest_reference_prop_blade_Z_mm": 890.4,
+  "highest_printed_part_Z_mm": 715.0,
+  "vertical_prop_plane_to_printed_assembly_mm": 175.4,
+  "independent_STL_validation": [
+    {
+      "file": "Door_splice_m1_125.stl",
+      "triangles": 276,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 5578.71,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_splice_m1_35.stl",
+      "triangles": 276,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 5578.71,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_splice_p1_125.stl",
+      "triangles": 276,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 5578.71,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_splice_p1_35.stl",
+      "triangles": 276,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 5578.71,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_tile_m1_m1.stl",
+      "triangles": 1208,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 122852.415,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_tile_m1_p1.stl",
+      "triangles": 1182,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 122852.378,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_tile_p1_m1.stl",
+      "triangles": 1208,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 122852.337,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Door_tile_p1_p1.stl",
+      "triangles": 1182,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 122852.384,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hinge_clevis_m1_m1.stl",
+      "triangles": 1248,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 49793.748,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hinge_clevis_m1_p1.stl",
+      "triangles": 1248,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 49793.749,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hinge_clevis_p1_m1.stl",
+      "triangles": 1248,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 49793.756,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hinge_clevis_p1_p1.stl",
+      "triangles": 1248,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 49793.756,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_lower_m1_m1.stl",
+      "triangles": 3426,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 162890.505,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_lower_m1_p1.stl",
+      "triangles": 3426,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 162890.393,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_lower_p1_m1.stl",
+      "triangles": 3426,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 162890.85,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_lower_p1_p1.stl",
+      "triangles": 3426,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 162890.578,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_upper_m1_m1.stl",
+      "triangles": 2332,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 163180.598,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_upper_m1_p1.stl",
+      "triangles": 2332,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 163180.454,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_upper_p1_m1.stl",
+      "triangles": 2332,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 163180.844,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Hopper_upper_p1_p1.stl",
+      "triangles": 2332,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 163179.096,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Horn_adapter_PROVISIONAL_m1.stl",
+      "triangles": 1274,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 3912.378,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Horn_adapter_PROVISIONAL_p1.stl",
+      "triangles": 1274,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 3912.376,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Keeper_dog_m1.stl",
+      "triangles": 746,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34855.981,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Keeper_dog_p1.stl",
+      "triangles": 746,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34855.972,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_lower_m1_m1.stl",
+      "triangles": 622,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 31992.435,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_lower_m1_p1.stl",
+      "triangles": 622,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 31992.437,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_lower_p1_m1.stl",
+      "triangles": 622,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 31992.435,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_lower_p1_p1.stl",
+      "triangles": 622,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 31992.437,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_upper_m1_m1.stl",
+      "triangles": 540,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 8697.849,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_upper_m1_p1.stl",
+      "triangles": 540,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 8697.849,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_upper_p1_m1.stl",
+      "triangles": 540,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 8697.849,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Rail_clamp_upper_p1_p1.stl",
+      "triangles": 540,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 8697.849,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Servo_keeper_carrier_m1.stl",
+      "triangles": 2494,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 162970.774,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Servo_keeper_carrier_p1.stl",
+      "triangles": 2494,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 162970.734,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Suspension_bracket_m1_m1.stl",
+      "triangles": 766,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 44670.334,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Suspension_bracket_m1_p1.stl",
+      "triangles": 766,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 44670.358,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Suspension_bracket_p1_m1.stl",
+      "triangles": 766,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 44670.358,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Suspension_bracket_p1_p1.stl",
+      "triangles": 766,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 44670.348,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_X_m1_m1.stl",
+      "triangles": 302,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 21870.315,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_X_m1_p1.stl",
+      "triangles": 302,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 21870.315,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_X_p1_m1.stl",
+      "triangles": 302,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 21870.32,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_X_p1_p1.stl",
+      "triangles": 302,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 21870.32,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_Y_m1_m1.stl",
+      "triangles": 298,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 20951.915,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_Y_m1_p1.stl",
+      "triangles": 304,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 20951.916,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_Y_p1_m1.stl",
+      "triangles": 298,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 20951.918,
+      "binary_size_ok": true
+    },
+    {
+      "file": "Throat_rail_Y_p1_p1.stl",
+      "triangles": 304,
+      "boundary_or_nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 20951.91,
+      "binary_size_ok": true
+    }
+  ],
+  "limitations": "Surface-intersection sampling at 1-degree increments; no continuous collision proof, no flexible deformation or dynamic loads. Pin, screw, spring, servo and electrical interfaces require physical verification. Landing stand is illustrative. STL edge checks quantize coordinates to 0.0001 mm."
+}

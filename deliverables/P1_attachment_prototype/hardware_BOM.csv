@@ -1,0 +1,28 @@
+Item,Quantity,Provisional size or interface,Notes
+Hopper module joining bolts,32,M4 x 16 with washers and locknuts,16 vertical seam and 16 horizontal seam bolts
+Throat rail bolts,16,M4 x 14 with washers and locknuts,Check stacked wall and rail thickness
+Hinge clevis mounting bolts,16,M4 x 20 with washers and locknuts,Verify engagement and no projecting petal snags
+Keeper carrier mounting bolts,16,M4 x 20 with washers and locknuts,Four bolt holes on each half of each carrier
+Suspension bracket bolts,16,M4 x 18 with wide washers and locknuts,Load path into thin hopper wall requires testing
+Door splice bolts,8,M4 x 22 with washers and locknuts,Two bolts per splice plate
+Rail clamp bolts,16,M4 x 40 with washers and locknuts,Four bolts per split clamp; actual frame interface unknown
+Door-limit eye bolts,8,M4 with washers and locknuts,Four carrier anchors and four door anchors; select stem length from actual stack
+Door-limit cords,4,2 mm nominal adjustable cord,Provisional 100 N WLL target each; eye-centre lengths in limit_cords.json; verify knots and shock load
+Hinge pins,4,5 mm stainless steel x 48 mm,Add washers and positive end retention; not printed pins
+Hinge thrust washers,8,5 mm ID,Allow for actual washer thickness when fitting
+Keeper spindles,2,6 mm steel x 44 mm,Two M3 cross connections; machining and strength need review
+Spindle cross bolts,4,M3 x 26 with locking nuts,Match shaft and adapter hole alignment
+Keeper thrust washers,2,6.6 mm ID x 24 mm OD x 1 mm,Payload axial force bears on carrier shelf
+Transport arming pins,2,3 mm x 28 mm with retention loop,Remove both before commanded release
+Servos,2,UNSELECTED; provisional 40.5 x 20.5 x 40 mm,Verify usable torque not stall rating; voltage duty current horn and hole pattern
+Servo mounting screws,8,M3 with washers and locking nuts,Provisional 49.5 x 10 mm mounting pattern
+Purchased servo horns,2,UNSELECTED; provisional 17 mm four-hole PCD,Printed adapter is not a verified servo spline
+Horn adapter screws,8,M2.5,Actual horn determines length and pattern
+Return springs,2,UNSELECTED; shown schematically only,End anchors and preload not engineered; not a verified failsafe
+Suspension studs,4,M6 x 136 mm,Use actual frame dimensions before cutting
+Suspension nuts,12,M6 locking nuts plus wide washers,Verify clearance and secure engagement
+Mount rails,2,Aluminium square tube 20 x 20 x 2 mm x 350 mm,Drill M6 stud holes at +/-130 mm; actual frame interface unknown
+Retention cover,1,Light fabric or suitable net about 320 x 320 mm,Reinforce four stud cutouts and secure all edges; validate propwash
+Cover straps,4,Nonprinted straps,Keep away from propellers
+Power supply and wiring,1,UNSELECTED BEC wiring connector set,Size for selected actuators and actual controller interface
+Illustrative landing stand,0,Not included in printable attachment BOM,New landing gear must be engineered and counted in actual aircraft mass

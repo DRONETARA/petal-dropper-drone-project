@@ -1,0 +1,13 @@
+{
+  "revision": "P2",
+  "printed_part_count": 46,
+  "one_connected_solid_each": true,
+  "all_parts_fit_220mm_cube": true,
+  "solid_PETG_total_kg": 3.751,
+  "PETG_density_assumed_g_cm3": 1.27,
+  "export_merge_tolerance_mm": 0.001,
+  "authoritative_export_and_motion_report": "final_checks.json",
+  "sizing_report": "sizing.json",
+  "physical_tests_performed": false,
+  "Blender_UI_open_verified": true
+}

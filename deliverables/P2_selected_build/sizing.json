@@ -1,0 +1,99 @@
+{
+  "mass_items": [
+    {
+      "item": "Printed attachment",
+      "kg": 3.751,
+      "basis": "CAD solid volume; assumed PETG 1.27 g/cm3"
+    },
+    {
+      "item": "Attachment rails/fasteners/cords/cover/horns",
+      "kg": 1.0,
+      "basis": "Planning allowance, excludes servos"
+    },
+    {
+      "item": "Two release servos",
+      "kg": 0.132,
+      "basis": "Published, excluding horns"
+    },
+    {
+      "item": "Four propulsion units",
+      "kg": 2.992,
+      "basis": "Published with props and cables"
+    },
+    {
+      "item": "Battery",
+      "kg": 4.65,
+      "basis": "Published nominal; custom-tail difference in harness allowance"
+    },
+    {
+      "item": "Carbon centre plates",
+      "kg": 1.5248,
+      "basis": "CAD volume; assumed CFRP 1.6 g/cm3"
+    },
+    {
+      "item": "Machined arm clamps",
+      "kg": 0.9216,
+      "basis": "CAD volume; assumed aluminium 2.7 g/cm3"
+    },
+    {
+      "item": "Carbon arms",
+      "kg": 0.4408,
+      "basis": "Supplier linear mass x nominal tube length"
+    },
+    {
+      "item": "Tubular landing members",
+      "kg": 1.4136,
+      "basis": "CAD volume; assumed aluminium 2.7 g/cm3"
+    },
+    {
+      "item": "Landing saddles/gussets/pads",
+      "kg": 0.2,
+      "basis": "Allowance beyond tubular members"
+    },
+    {
+      "item": "Aircraft fasteners",
+      "kg": 0.55,
+      "basis": "Allowance including washers, nuts and mounting bolts"
+    },
+    {
+      "item": "FC/PM/GPS/RX/BEC",
+      "kg": 0.3696,
+      "basis": "Published component masses, approximate"
+    },
+    {
+      "item": "Power distribution, fuse, connector, added wiring",
+      "kg": 0.65,
+      "basis": "Allowance; weigh custom harness"
+    },
+    {
+      "item": "Straps/foam/avionics supports",
+      "kg": 0.18,
+      "basis": "Allowance"
+    },
+    {
+      "item": "Petals",
+      "kg": 1.0,
+      "basis": "Required payload alone"
+    },
+    {
+      "item": "Unallocated mass contingency",
+      "kg": 0.5,
+      "basis": "Planning reserve"
+    }
+  ],
+  "planning_total_kg": 20.275,
+  "design_ceiling_kg": 21,
+  "unallocated_within_ceiling_kg": 0.725,
+  "hover_thrust_per_motor_g": 5250,
+  "bench_interpolated_bus_A_at46V": 58.7,
+  "bench_hover_W": 2700.1,
+  "planning_hover_W_with15pct_and20W_allowance": 3125.2,
+  "usable_energy_Wh_75pct": 732.5999999999999,
+  "analytical_hover_minutes": 14.1,
+  "nominal_motor_radius_mm": 650,
+  "motor_diagonal_mm": 1300,
+  "adjacent_motor_mm": 919.239,
+  "prop_span_mm": 620,
+  "nominal_adjacent_prop_gap_mm": 299.239,
+  "data_status": "Estimates and manufacturer laboratory data, not measured aircraft performance"
+}

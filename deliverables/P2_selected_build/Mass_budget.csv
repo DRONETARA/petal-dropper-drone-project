@@ -1,0 +1,18 @@
+Item,Planning mass kg,Basis
+Printed attachment,3.751,CAD solid volume; assumed PETG 1.27 g/cm3
+Attachment rails/fasteners/cords/cover/horns,1.0,"Planning allowance, excludes servos"
+Two release servos,0.132,"Published, excluding horns"
+Four propulsion units,2.992,Published with props and cables
+Battery,4.65,Published nominal; custom-tail difference in harness allowance
+Carbon centre plates,1.5247927369931737,CAD volume; assumed CFRP 1.6 g/cm3
+Machined arm clamps,0.9215963435645201,CAD volume; assumed aluminium 2.7 g/cm3
+Carbon arms,0.44084,Supplier linear mass x nominal tube length
+Tubular landing members,1.41363359905323,CAD volume; assumed aluminium 2.7 g/cm3
+Landing saddles/gussets/pads,0.2,Allowance beyond tubular members
+Aircraft fasteners,0.55,"Allowance including washers, nuts and mounting bolts"
+FC/PM/GPS/RX/BEC,0.36960000000000004,"Published component masses, approximate"
+"Power distribution, fuse, connector, added wiring",0.65,Allowance; weigh custom harness
+Straps/foam/avionics supports,0.18,Allowance
+Petals,1.0,Required payload alone
+Unallocated mass contingency,0.5,Planning reserve
+TOTAL,20.275,Includes 1 kg petals and 0.5 kg contingency

@@ -1,0 +1,21 @@
+System,Quantity,Selected component,Ordering/interface requirement,Total nominal mass kg,Mass basis / limitation,Primary source
+Propulsion,4,Hobbywing X6 Plus G2 with MFP24x8,2 CW + 2 CCW; 30 mm tube,2.992,"Published total, four units",https://www.hobbywing.com/en/products/x6-plus-g2
+Flight battery,1,Tattu standard LiPo 12S 22Ah 30C,Factory custom SB175 tails + matching 12S balance harness,4.650,Published +/-0.100 kg before custom-tail change,https://www.grepow.com/uav-battery/tattu-12s-lipo-drone-battery.html
+Controller,1,Holybro Pixhawk 6X + standard baseboard,Use current matched board/cables,0.074,Published module+board estimate; harness additional,https://docs.holybro.com/autopilot/pixhawk-6x/technical-specification
+Power module,1,Holybro PM08 CAN tinned-wire SKU15029,200 A module; official power/CAN harness,0.185,Published with cable,https://holybro.com/products/dronecan-pm08-power-module-14s-200a
+GPS,1,Holybro M10 GPS SKU12040,Compatible 10-pin GPS1 cable,0.032,Published,https://holybro.com/products/m10-gps
+Receiver,1,RadioMaster RP3 V2 ELRS 2.4 GHz,5 V CRSF; 2 antennas,0.0046,Published including antennas,https://www.radiomasterrc.com/products/rp3-expresslrs-2-4ghz-nano-receiver
+Transmitter,1,RadioMaster Boxer ELRS 2.4 GHz,Matching region/firmware; ground equipment,,Not airborne,https://www.radiomasterrc.com/products/boxer-radio-controller-m2
+Release servo,2,Hitec D954SW,7.4 V; matching 25T horns,0.132,Published excluding horns,https://www.hiteccs.com/public/uploads/data_sheet/HRC_D954SW_Specsheetv2.2_102-1729877827.pdf
+Servo BEC,1,Hobbywing UBEC 25A HV,Set 7.4 V; separate servo power bus,0.074,Published,https://www.hobbywing.com/en/uploads/file/20221108/12f5024346c4952abc96da8c0f2ffc32.pdf
+Carbon arms,4,Roll-wrapped 30 OD / 27 ID carbon tube,Start 515 mm nominal; trim only after pod fit,0.441,214 g/m source x 2.06 m,https://www.easycomposites.co.uk/30mm-roll-wrapped-carbon-fibre-tube-metric
+Centre plates,2,Quasi-isotropic CFRP 3 mm sheet,400 x 400 mm; supplied DXFs,1.536,Solid bounding-volume estimate at assumed 1.6 g/cm3; subtract holes,
+Arm clamps,16,Custom CNC 6061-T6 half clamps,8 complete split clamps; supplied dimensions,,CAD volume in mass report; not printable,
+Frame bolts,32,M5 x 60 class 8.8 starting length,Washers and locking nuts; verify stack,,Included in frame hardware allowance,
+Landing frame,1,Custom 6061-T6 tubular stand,20x2 struts/outriggers; 24x2 skids; saddle/gusset fit-up,,Included in landing allowance,
+Main connector,1,Anderson SB175 mated pair,2 x blue 941 +4 x 1382 contacts; 1/0 AWG tails,,Included in electrical harness allowance,https://www.andersonpower.com/content/dam/ideal-anderson-power-dotcom/product-assets/default/data-sheets/DS-SB175.pdf
+Main fuse,1,Littelfuse JLLN200.X,200 A /125 V DC; matching covered LFT30 holder,,Fault-current/thermal coordination required,https://www.littelfuse.com/assetdocs/jlln-datasheet?assetguid=3a7bc9bf-d932-4401-bdc7-b39f302195cf
+Power harness,1,Qualified insulated star-distribution harness,>=200 A main path; short supplied ESC branches; branch/BEC protection,,See wiring document; verify duty and thermal limits,
+Precharge fixture,1,Enclosed ground-only resistor/switch fixture,10 ohm >=500 W; switch/wire/fuse >=63 VDC 10 A,,Ground equipment; design/test required,
+Charger,1,SkyRC PC1260 SK-100138,Standard 12S LiPo + correct balance board/charge adapter,,Ground equipment,https://www.skyrc.com/download/PC1260_Instruction_Manual_EN_V1.0.pdf
+Retention and mounts,1,"Battery pad, two straps, end restraint, avionics foam/straps",Secure cover and electrical cable strain relief,,Included in allowance,
